@@ -253,3 +253,54 @@
 .sec13 h1{
     font-size: 85px;
 }
+.sec14{
+    background-color: #fce956;
+    display: flex;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+.sec15{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 9px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.sec16{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.sec16 h3{
+    font-family: 'Bangers', cursive;
+    font-size: 48px;
+}
+.sec16 p{
+    font-weight: bold;
+}
+@media screen and (max-width: 359px) {
+    .sec13 h1{
+        font-size: 65px;
+    }
+}
+@media screen and (max-width: 285px) {
+    .sec13 h1{
+        font-size: 55px;
+    }
+}
+@media screen and (max-width: 249px) {
+    .sec13 h1{
+        font-size: 45px;
+    }
+}
+@media screen and (max-width: 401px) {
+    .sec16 h3{
+        font-size: 25px;
+    }
+}
+@media screen and (max-width: 319px) {
+    .sec14{
+        display: block;
+    }
+}
