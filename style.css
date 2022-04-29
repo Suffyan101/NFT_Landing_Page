@@ -438,3 +438,33 @@
     justify-content: center;
     margin-bottom: 60px;
 }
+#footer{
+    background-color: #003063;
+}
+.lion1{
+    font-family: 'Bangers', cursive;
+    font-size: 48px;
+    color: yellow;
+    text-decoration: none;
+    text-shadow: -3px -3px 5px #000000;
+    text-align: center;
+}
+.sec136{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+.sec136 p{
+    color: white;
+    font-size: 22px;
+}
+.sec137{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+    color: white;
+    font-size: 32px;
+    
+}
